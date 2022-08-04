@@ -11,3 +11,9 @@ Deliverable
 •	Customer behaviour analysis backed with visualization
 
 •	Marketing recommendations to convert casual riders to annual members
+
+
+
+The files used in this project can be downloaded from the link below
+
+https://drive.google.com/drive/folders/14253ThUk5ePdiPqhKVG7Kv-2XX0kB0-Q?usp=sharing
